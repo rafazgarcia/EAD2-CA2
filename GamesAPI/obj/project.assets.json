@@ -8,23 +8,25 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\dj_ra\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\Juliusz\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dj_ra\\source\\repos\\GamesAPI\\GamesAPI\\GamesAPI.csproj",
+      "projectUniqueName": "C:\\Users\\Juliusz\\Source\\Repos\\EAD2-CA2\\GamesAPI\\GamesAPI.csproj",
       "projectName": "GamesAPI",
-      "projectPath": "C:\\Users\\dj_ra\\source\\repos\\GamesAPI\\GamesAPI\\GamesAPI.csproj",
-      "packagesPath": "C:\\Users\\dj_ra\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dj_ra\\source\\repos\\GamesAPI\\GamesAPI\\obj\\",
+      "projectPath": "C:\\Users\\Juliusz\\Source\\Repos\\EAD2-CA2\\GamesAPI\\GamesAPI.csproj",
+      "packagesPath": "C:\\Users\\Juliusz\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Juliusz\\Source\\Repos\\EAD2-CA2\\GamesAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        "C:\\Microsoft\\Xamarin\\NuGet\\",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\dj_ra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Juliusz\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -68,7 +70,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }
