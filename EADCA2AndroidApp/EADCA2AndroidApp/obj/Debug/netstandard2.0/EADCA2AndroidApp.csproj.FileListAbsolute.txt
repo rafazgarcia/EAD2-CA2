@@ -17,3 +17,17 @@ B:\4th Year Modules Sem 2\EAD 2\EADCA2AndroidApp\EADCA2AndroidApp\obj\Debug\nets
 B:\4th Year Modules Sem 2\EAD 2\EADCA2AndroidApp\EADCA2AndroidApp\obj\Debug\netstandard2.0\EADCA2AndroidApp.dll
 B:\4th Year Modules Sem 2\EAD 2\EADCA2AndroidApp\EADCA2AndroidApp\obj\Debug\netstandard2.0\ref\EADCA2AndroidApp.dll
 B:\4th Year Modules Sem 2\EAD 2\EADCA2AndroidApp\EADCA2AndroidApp\obj\Debug\netstandard2.0\EADCA2AndroidApp.pdb
+B:\4th Year Modules Sem 2\EAD 2\EADCA2REPO\EADCA2AndroidApp\EADCA2AndroidApp\obj\Debug\netstandard2.0\EADCA2AndroidApp.csprojAssemblyReference.cache
+B:\4th Year Modules Sem 2\EAD 2\EADCA2REPO\EADCA2AndroidApp\EADCA2AndroidApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+B:\4th Year Modules Sem 2\EAD 2\EADCA2REPO\EADCA2AndroidApp\EADCA2AndroidApp\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+B:\4th Year Modules Sem 2\EAD 2\EADCA2REPO\EADCA2AndroidApp\EADCA2AndroidApp\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+B:\4th Year Modules Sem 2\EAD 2\EADCA2REPO\EADCA2AndroidApp\EADCA2AndroidApp\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+B:\4th Year Modules Sem 2\EAD 2\EADCA2REPO\EADCA2AndroidApp\EADCA2AndroidApp\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+B:\4th Year Modules Sem 2\EAD 2\EADCA2REPO\EADCA2AndroidApp\EADCA2AndroidApp\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+B:\4th Year Modules Sem 2\EAD 2\EADCA2REPO\EADCA2AndroidApp\EADCA2AndroidApp\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+B:\4th Year Modules Sem 2\EAD 2\EADCA2REPO\EADCA2AndroidApp\EADCA2AndroidApp\obj\Debug\netstandard2.0\EADCA2AndroidApp.AssemblyInfoInputs.cache
+B:\4th Year Modules Sem 2\EAD 2\EADCA2REPO\EADCA2AndroidApp\EADCA2AndroidApp\obj\Debug\netstandard2.0\EADCA2AndroidApp.AssemblyInfo.cs
+B:\4th Year Modules Sem 2\EAD 2\EADCA2REPO\EADCA2AndroidApp\EADCA2AndroidApp\obj\Debug\netstandard2.0\EADCA2AndroidApp.csproj.CoreCompileInputs.cache
+B:\4th Year Modules Sem 2\EAD 2\EADCA2REPO\EADCA2AndroidApp\EADCA2AndroidApp\obj\Debug\netstandard2.0\EADCA2AndroidApp.dll
+B:\4th Year Modules Sem 2\EAD 2\EADCA2REPO\EADCA2AndroidApp\EADCA2AndroidApp\obj\Debug\netstandard2.0\ref\EADCA2AndroidApp.dll
+B:\4th Year Modules Sem 2\EAD 2\EADCA2REPO\EADCA2AndroidApp\EADCA2AndroidApp\obj\Debug\netstandard2.0\EADCA2AndroidApp.pdb

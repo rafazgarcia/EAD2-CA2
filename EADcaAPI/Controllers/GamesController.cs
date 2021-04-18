@@ -29,14 +29,14 @@ namespace EADcaAPI.Controllers
         }
 
         //This will return games where the platform is equal to the user input passed from Android app as an arg
-        [HttpPost("getGamesByPlatform")]
+        [HttpGet("getGamesByPlatform")]
         [ProducesResponseType(StatusCodes.Status200OK)]
         [ProducesResponseType(StatusCodes.Status500InternalServerError)]
         public async Task<ActionResult> getGamesByPlatform(string platformIN)
         {
 
             //.FirstOrDefault (?)
-            var gamesList = _dbContext.Game.Where(g => g.platform == platformIN);
+            var gamesList = _dbContext.Game.ToList().Where(g => g.platform == platformIN);
             return Ok(gamesList);
 
         }

@@ -31,7 +31,8 @@
              
                 <Button Margin="0,10,0,0" Text="Sample button"
                         BackgroundColor="{StaticResource Primary}"
-                        TextColor="White" />
+                        TextColor="White" Clicked="GETbyPlatform" />
+                
             </StackLayout>
         </ScrollView>
     </Grid>
