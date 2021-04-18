@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "B:\\4th Year Modules Sem 2\\EAD 2\\EAD_CA_APP\\EAD_CA_APP.csproj": {}
+    "B:\\4th Year Modules Sem 2\\EAD 2\\EADCA2REPO\\EAD_CA_APP\\EAD_CA_APP.csproj": {}
   },
   "projects": {
-    "B:\\4th Year Modules Sem 2\\EAD 2\\EAD_CA_APP\\EAD_CA_APP.csproj": {
+    "B:\\4th Year Modules Sem 2\\EAD 2\\EADCA2REPO\\EAD_CA_APP\\EAD_CA_APP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "B:\\4th Year Modules Sem 2\\EAD 2\\EAD_CA_APP\\EAD_CA_APP.csproj",
+        "projectUniqueName": "B:\\4th Year Modules Sem 2\\EAD 2\\EADCA2REPO\\EAD_CA_APP\\EAD_CA_APP.csproj",
         "projectName": "EAD_CA_APP",
-        "projectPath": "B:\\4th Year Modules Sem 2\\EAD 2\\EAD_CA_APP\\EAD_CA_APP.csproj",
+        "projectPath": "B:\\4th Year Modules Sem 2\\EAD 2\\EADCA2REPO\\EAD_CA_APP\\EAD_CA_APP.csproj",
         "packagesPath": "C:\\Users\\Juliusz\\.nuget\\packages\\",
-        "outputPath": "B:\\4th Year Modules Sem 2\\EAD 2\\EAD_CA_APP\\obj\\",
+        "outputPath": "B:\\4th Year Modules Sem 2\\EAD 2\\EADCA2REPO\\EAD_CA_APP\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [

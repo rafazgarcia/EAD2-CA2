@@ -1,4 +1,5 @@
 @string/appbar_scrolling_view_behavior;obj\Debug\90\res\layout\content_main.xml
+{http://xamarin.com/schemas/2014/forms}ContentPage;obj\Debug\90\res\layout\content_main.xml
 adaptive-icon;obj\Debug\90\res\mipmap-anydpi-v26\ic_launcher.xml
 adaptive-icon;obj\Debug\90\res\mipmap-anydpi-v26\ic_launcher_round.xml
 android.support.design.widget.AppBarLayout;obj\Debug\90\res\layout\app_bar_main.xml
@@ -9,12 +10,12 @@ android.support.v4.widget.DrawerLayout;obj\Debug\90\res\layout\activity_main.xml
 android.support.v7.widget.Toolbar;obj\Debug\90\res\layout\app_bar_main.xml
 background;obj\Debug\90\res\mipmap-anydpi-v26\ic_launcher.xml
 background;obj\Debug\90\res\mipmap-anydpi-v26\ic_launcher_round.xml
-cache-path;B:\4th Year Modules Sem 2\EAD 2\EAD_CA_APP\obj\Debug\90\lp\35\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+cache-path;B:\4th Year Modules Sem 2\EAD 2\EADCA2REPO\EAD_CA_APP\obj\Debug\90\lp\35\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
 color;obj\Debug\90\res\values\colors.xml
 color;obj\Debug\90\res\values\ic_launcher_background.xml
 dimen;obj\Debug\90\res\values\dimens.xml
-external-cache-path;B:\4th Year Modules Sem 2\EAD 2\EAD_CA_APP\obj\Debug\90\lp\35\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
-external-path;B:\4th Year Modules Sem 2\EAD 2\EAD_CA_APP\obj\Debug\90\lp\35\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+external-cache-path;B:\4th Year Modules Sem 2\EAD 2\EADCA2REPO\EAD_CA_APP\obj\Debug\90\lp\35\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+external-path;B:\4th Year Modules Sem 2\EAD 2\EADCA2REPO\EAD_CA_APP\obj\Debug\90\lp\35\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
 foreground;obj\Debug\90\res\mipmap-anydpi-v26\ic_launcher.xml
 foreground;obj\Debug\90\res\mipmap-anydpi-v26\ic_launcher_round.xml
 gradient;obj\Debug\90\res\drawable\side_nav_bar.xml
@@ -27,7 +28,9 @@ item;obj\Debug\90\res\menu\menu_main.xml
 item;obj\Debug\90\res\values\drawables.xml
 item;obj\Debug\90\res\values\styles.xml
 item;obj\Debug\90\res\values-v21\styles.xml
+LinearLayout;obj\Debug\90\res\layout\content_main.xml
 LinearLayout;obj\Debug\90\res\layout\nav_header_main.xml
+ListView;obj\Debug\90\res\layout\content_main.xml
 menu;obj\Debug\90\res\menu\activity_main_drawer.xml
 menu;obj\Debug\90\res\menu\menu_main.xml
 path;obj\Debug\90\res\drawable-v21\ic_menu_camera.xml
@@ -36,7 +39,7 @@ path;obj\Debug\90\res\drawable-v21\ic_menu_manage.xml
 path;obj\Debug\90\res\drawable-v21\ic_menu_send.xml
 path;obj\Debug\90\res\drawable-v21\ic_menu_share.xml
 path;obj\Debug\90\res\drawable-v21\ic_menu_slideshow.xml
-paths;B:\4th Year Modules Sem 2\EAD 2\EAD_CA_APP\obj\Debug\90\lp\35\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+paths;B:\4th Year Modules Sem 2\EAD 2\EADCA2REPO\EAD_CA_APP\obj\Debug\90\lp\35\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
 RelativeLayout;obj\Debug\90\res\layout\content_main.xml
 resources;obj\Debug\90\res\values\colors.xml
 resources;obj\Debug\90\res\values\dimens.xml

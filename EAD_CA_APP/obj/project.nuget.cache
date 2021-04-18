@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HV2oEQUoEAyH6aVgka2ZvKU+JjO8yMkCVvySeBVO05VpoIopFgdoz6NNqgHPbfLZ/FtHfmlqkYpdKmSBibqA5Q==",
+  "dgSpecHash": "R71J6WFJyzVEGBuc538jthJhCmd+Z9y3vGD4PW0ag+mdoOgjM5YJrDzxhr8tRh4GXJ/5fcA5AF5y6zA5wxOtRQ==",
   "success": true,
-  "projectFilePath": "B:\\4th Year Modules Sem 2\\EAD 2\\EAD_CA_APP\\EAD_CA_APP.csproj",
+  "projectFilePath": "B:\\4th Year Modules Sem 2\\EAD 2\\EADCA2REPO\\EAD_CA_APP\\EAD_CA_APP.csproj",
   "expectedPackageFiles": [
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.arch.core.common\\1.1.1.3\\xamarin.android.arch.core.common.1.1.1.3.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.arch.core.runtime\\1.1.1.3\\xamarin.android.arch.core.runtime.1.1.1.3.nupkg.sha512",
